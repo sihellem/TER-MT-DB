@@ -8,3 +8,7 @@ This database is maintained by the [Evolutionary Genomics Unit](https://groups.o
 
 __COMING SOON__
 
+## How to cite
+
+__Database__
+* Hellemans S., Wang M., Jouault C., Rocha M.M., Battilana J., Carrijo T.F., Legendre F., Condamine F.L., Roisin Y., Cancello E.M., Scheffrahn R.H., Bourguignon T. 2026. Termites became the dominant decomposers of the tropics after two diversification pulses. _Current Biology_. doi: [10.1016/j.cub.2026.04.008](https://doi.org/10.1016/j.cub.2026.04.008)
