@@ -7,7 +7,16 @@
 
 This database is maintained by the [Evolutionary Genomics Unit](https://groups.oist.jp/egu) at OIST.
 
-__COMING SOON__
+The purpose of this database is the centralization of termite mitogenome data and assignation of unique identification codes. This will ensure a long-term (re-)usability of all published data.
+
+For any question or request, please open an issue.
+
+## A/ Referenced contributions
+Listed contributions to the [Database](TER-MT-DB.tsv).
+| Version | Date | Number of samples | Reference |
+| --------  | --------  | ------------------- | --------------------- |
+| #1 | 18 May 2026 | 2800 | Hellemans _et al_. [_CurrBiol_](https://doi.org/10.1016/j.cub.2026.04.008) |
+
 
 ## How to cite
 
